@@ -1,0 +1,17 @@
+{
+    "name": "paul/09_composer",
+    "autoload": {
+        "psr-4": {
+            "Paul\\Testing\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jennica",
+            "email": "jennica3003@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.10"
+    }
+}
